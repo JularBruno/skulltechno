@@ -1,0 +1,40 @@
+{
+  "videos": [
+    {
+      "id": 1,
+      "title": "Dark Techno Session #001",
+      "youtubeId": "dQw4w9WgXcQ",
+      "thumbnail": "https://img.youtube.com/vi/dQw4w9WgXcQ/maxresdefault.jpg"
+    },
+    {
+      "id": 2,
+      "title": "Underground Mix #002",
+      "youtubeId": "dQw4w9WgXcQ",
+      "thumbnail": "https://img.youtube.com/vi/dQw4w9WgXcQ/maxresdefault.jpg"
+    },
+    {
+      "id": 3,
+      "title": "Skull Radio Live #003",
+      "youtubeId": "dQw4w9WgXcQ",
+      "thumbnail": "https://img.youtube.com/vi/dQw4w9WgXcQ/maxresdefault.jpg"
+    },
+    {
+      "id": 4,
+      "title": "Midnight Techno Journey #004",
+      "youtubeId": "dQw4w9WgXcQ",
+      "thumbnail": "https://img.youtube.com/vi/dQw4w9WgXcQ/maxresdefault.jpg"
+    },
+    {
+      "id": 5,
+      "title": "Industrial Beats Session #005",
+      "youtubeId": "dQw4w9WgXcQ",
+      "thumbnail": "https://img.youtube.com/vi/dQw4w9WgXcQ/maxresdefault.jpg"
+    },
+    {
+      "id": 6,
+      "title": "Raw Energy Mix #006",
+      "youtubeId": "dQw4w9WgXcQ",
+      "thumbnail": "https://img.youtube.com/vi/dQw4w9WgXcQ/maxresdefault.jpg"
+    }
+  ]
+}
